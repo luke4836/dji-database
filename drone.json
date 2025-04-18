@@ -1,0 +1,62 @@
+[
+  {
+    "model": "DJI Mini 3 Pro",
+    "description": "輕巧便攜，具備專業級拍攝功能的迷你無人機。",
+    "details": "搭載1/1.3吋感光元件，4K/60fps影片拍攝，最長飛行時間達34分鐘，支援三向障礙感知。",
+    "imageName": "dji_mini_3_pro.jpg"
+  },
+  {
+    "model": "DJI Air 2S",
+    "description": "結合便攜性與強大性能，適合旅行與戶外探險。",
+    "details": "1吋感光元件可拍攝20MP照片與5.4K影片，搭載OcuSync 3.0圖傳系統。",
+    "imageName": "dji_air_2s.jpg"
+  },
+  {
+    "model": "DJI Mavic 3",
+    "description": "旗艦級無人機，具備雙鏡頭系統與卓越圖像處理能力。",
+    "details": "搭載Hasselblad相機與遠距變焦鏡頭，支援Apple ProRes錄影格式。",
+    "imageName": "dji_mavic_3.jpg"
+  },
+  {
+    "model": "DJI Mini 4 Pro",
+    "description": "最新一代Mini系列，提升飛行穩定性與影像品質。",
+    "details": "具備全向避障與夜景增強模式，支援4K/100fps超慢動作。",
+    "imageName": "dji_mini_4_pro.jpg"
+  },
+  {
+    "model": "DJI Avata",
+    "description": "第一款FPV風格的沉浸式飛行體驗無人機。",
+    "details": "搭配DJI Goggles與Motion Controller，提供電影級操控感與廣角視野。",
+    "imageName": "dji_avata.jpg"
+  },
+  {
+    "model": "DJI Inspire 3",
+    "description": "專為電影拍攝設計的專業無人機。",
+    "details": "支援8K CinemaDNG與Apple ProRes RAW錄製，具備精密定位系統與可變鏡頭設計。",
+    "imageName": "dji_inspire_3.jpg"
+  },
+  {
+    "model": "DJI Phantom 4 Pro V2.0",
+    "description": "經典回歸，具備高精度與穩定性的航拍利器。",
+    "details": "20MP相機、1吋感光元件與五向感知系統，支援4K/60fps影片錄製。",
+    "imageName": "dji_phantom_4_pro_v2.jpg"
+  },
+  {
+    "model": "DJI FPV",
+    "description": "結合傳統無人機穩定性與FPV競速快感的混合式設計。",
+    "details": "最高飛行速度140 km/h，支援RockSteady防抖技術與低延遲HD圖傳。",
+    "imageName": "dji_fpv.jpg"
+  },
+  {
+    "model": "DJI Matrice 300 RTK",
+    "description": "工業等級無人機，適用於巡檢、救援與測繪任務。",
+    "details": "支援6向定位、55分鐘長續航、同時搭載三種負載。",
+    "imageName": "dji_matrice_300_rtk.jpg"
+  },
+  {
+    "model": "DJI Agras T40",
+    "description": "專為農業噴灑與播種設計的無人機。",
+    "details": "可載重50公斤，支援智慧飛行規劃與高精度農業資料回傳。",
+    "imageName": "dji_agras_t40.jpg"
+  }
+]
