@@ -22,56 +22,6 @@
       ]
     },
     {
-      "category": "日常 系列 滋味茶",
-      "items": [
-        { "name": "糯香檸檬茶", "price": 60 },
-        { "name": "粉粿桂花檸檬", "price": 65, "note": "甜度冰量固定" },
-        { "name": "粉粿黑糖檸檬", "price": 65, "note": "甜度冰量固定" },
-        { "name": "荔枝烏龍", "price": 55 },
-        { "name": "桂花蕎麥茶", "price": 55, "note": "推薦半糖" },
-        { "name": "黃金柚烏龍", "price": 65, "note": "冷飲冰量固定" }
-      ]
-    },
-    {
-      "category": "香醇 系列 奶茶",
-      "items": [
-        { "name": "糯香奶茶", "price": 55 },
-        { "name": "粉粿黑糖奶茶", "price": 65, "note": "甜度冰量固定" },
-        { "name": "黃金蕎麥奶茶", "price": 50 },
-        { "name": "逮丸奶茶", "price": 70 },
-        { "name": "極黑芝麻奶茶", "price": 65 },
-        { "name": "島韻紅奶茶", "price": 55 }
-      ]
-    },
-    {
-      "category": "濃韻 系列 芝士奶蓋",
-      "items": [
-        { "name": "奶蓋糯香茶", "price": 70 },
-        { "name": "奶蓋島韻紅", "price": 70 },
-        { "name": "奶蓋烏龍茶", "price": 65 },
-        { "name": "奶蓋蕎麥茶", "price": 65, "note": "推薦無糖" }
-      ]
-    },
-    {
-      "category": "自然 系列 鮮奶茶",
-      "items": [
-        { "name": "糯香鮮奶茶", "price": 75 },
-        { "name": "蕎麥鮮奶茶", "price": 70 },
-        { "name": "烏龍鮮奶茶", "price": 70 },
-        { "name": "島韻鮮奶茶", "price": 75 },
-        { "name": "極黑芝麻鮮奶茶", "price": 80 }
-      ]
-    },
-    {
-      "category": "堅持 系列 冬瓜茶",
-      "items": [
-        { "name": "冬瓜紅茶", "price": 45 },
-        { "name": "冬瓜青茶", "price": 45 },
-        { "name": "冬瓜檸檬", "price": 50 },
-        { "name": "冬瓜仙草蜜", "price": 50, "note": "冰量固定" }
-      ]
-    },
-    {
       "category": "加好料",
       "items": [
         { "name": "草仔粿", "price": 15 },
