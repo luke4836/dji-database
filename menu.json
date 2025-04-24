@@ -1,0 +1,93 @@
+{
+  "store": "一沐日 板橋三民店",
+  "menu": [
+    {
+      "category": "茶人 系列 原味茶",
+      "items": [
+        { "name": "糯米香茶", "price": 40 },
+        { "name": "島韻紅茶", "price": 40 },
+        { "name": "炭培烏龍", "price": 35 },
+        { "name": "油切蕎麥茶", "price": 35, "note": "推薦無糖" },
+        { "name": "手採高山青", "price": 35 }
+      ]
+    },
+    {
+      "category": "講究 系列 風味茶",
+      "items": [
+        { "name": "梅果紅茶", "price": 60 },
+        { "name": "荔枝蘆薈", "price": 60, "note": "甜度冰量固定" },
+        { "name": "鮮葡萄柚青茶", "price": 65 },
+        { "name": "養樂多青茶", "price": 55 },
+        { "name": "檸檬高山青", "price": 60 }
+      ]
+    },
+    {
+      "category": "日常 系列 滋味茶",
+      "items": [
+        { "name": "糯香檸檬茶", "price": 60 },
+        { "name": "粉粿桂花檸檬", "price": 65, "note": "甜度冰量固定" },
+        { "name": "粉粿黑糖檸檬", "price": 65, "note": "甜度冰量固定" },
+        { "name": "荔枝烏龍", "price": 55 },
+        { "name": "桂花蕎麥茶", "price": 55, "note": "推薦半糖" },
+        { "name": "黃金柚烏龍", "price": 65, "note": "冷飲冰量固定" }
+      ]
+    },
+    {
+      "category": "香醇 系列 奶茶",
+      "items": [
+        { "name": "糯香奶茶", "price": 55 },
+        { "name": "粉粿黑糖奶茶", "price": 65, "note": "甜度冰量固定" },
+        { "name": "黃金蕎麥奶茶", "price": 50 },
+        { "name": "逮丸奶茶", "price": 70 },
+        { "name": "極黑芝麻奶茶", "price": 65 },
+        { "name": "島韻紅奶茶", "price": 55 }
+      ]
+    },
+    {
+      "category": "濃韻 系列 芝士奶蓋",
+      "items": [
+        { "name": "奶蓋糯香茶", "price": 70 },
+        { "name": "奶蓋島韻紅", "price": 70 },
+        { "name": "奶蓋烏龍茶", "price": 65 },
+        { "name": "奶蓋蕎麥茶", "price": 65, "note": "推薦無糖" }
+      ]
+    },
+    {
+      "category": "自然 系列 鮮奶茶",
+      "items": [
+        { "name": "糯香鮮奶茶", "price": 75 },
+        { "name": "蕎麥鮮奶茶", "price": 70 },
+        { "name": "烏龍鮮奶茶", "price": 70 },
+        { "name": "島韻鮮奶茶", "price": 75 },
+        { "name": "極黑芝麻鮮奶茶", "price": 80 }
+      ]
+    },
+    {
+      "category": "堅持 系列 冬瓜茶",
+      "items": [
+        { "name": "冬瓜紅茶", "price": 45 },
+        { "name": "冬瓜青茶", "price": 45 },
+        { "name": "冬瓜檸檬", "price": 50 },
+        { "name": "冬瓜仙草蜜", "price": 50, "note": "冰量固定" }
+      ]
+    },
+    {
+      "category": "加好料",
+      "items": [
+        { "name": "草仔粿", "price": 15 },
+        { "name": "招牌粉粿", "price": 15 },
+        { "name": "琥珀粉圓", "price": 10 },
+        { "name": "蘆薈", "price": 10 },
+        { "name": "雙粉（粉粿+粉圓）", "price": 15 },
+        { "name": "嫩仙草", "price": 10 }
+      ]
+    }
+  ],
+  "options": {
+    "ice": ["正常冰", "少冰", "微冰", "去冰(小碎冰)", "完全去冰"],
+    "sweetness": ["正常甜", "七分甜", "五分甜", "三分甜", "一分糖", "無糖"],
+    "hot_drink_volume": "600ml",
+    "cold_drink_volume": "660ml",
+    "note": "無咖啡因飲品請諮詢店員 / 買十送一"
+  }
+}
