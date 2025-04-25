@@ -4,21 +4,21 @@
     {
       "category": "茶人 系列 原味茶",
       "items": [
-        { "name": "糯米香茶", "price": 40 },
-        { "name": "島韻紅茶", "price": 40 },
-        { "name": "炭培烏龍", "price": 35 },
+        { "name": "糯米香茶", "price": 40, "note": "推薦無糖" },
+        { "name": "島韻紅茶", "price": 40, "note": "推薦無糖" },
+        { "name": "炭培烏龍", "price": 35, "note": "推薦無糖" },
         { "name": "油切蕎麥茶", "price": 35, "note": "推薦無糖" },
-        { "name": "手採高山青", "price": 35 }
+        { "name": "手採高山青", "price": 35, "note": "推薦無糖" }
       ]
     },
     {
       "category": "講究 系列 風味茶",
       "items": [
-        { "name": "梅果紅茶", "price": 60 },
+        { "name": "梅果紅茶", "price": 60, "note": "推薦無糖" },
         { "name": "荔枝蘆薈", "price": 60, "note": "甜度冰量固定" },
-        { "name": "鮮葡萄柚青茶", "price": 65 },
-        { "name": "養樂多青茶", "price": 55 },
-        { "name": "檸檬高山青", "price": 60 }
+        { "name": "鮮葡萄柚青茶", "price": 65, "note": "推薦無糖" },
+        { "name": "養樂多青茶", "price": 55, "note": "推薦無糖" },
+        { "name": "檸檬高山青", "price": 60, "note": "推薦無糖" }
       ]
     },
     {
